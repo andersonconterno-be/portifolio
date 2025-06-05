@@ -1,6 +1,6 @@
 function Footer(){
     return (
-        <footer className="footer">
+        <footer className="footer" id="footer">
         <div className="social">
             <a href="https://www.linkedin.com/in/anderson-conterno-890754269/"><i className='bx bxl-linkedin'></i></a>
             <a href="https://github.com/andersonconterno-be"><i className='bx bxl-github' ></i></a>

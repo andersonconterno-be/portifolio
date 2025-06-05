@@ -10,7 +10,7 @@ function Header() {
             <a href="#home" className="active">Home</a>
             <a href="#education">Formação</a>
             <a href="#services">Serviços</a>
-            {/* <a href="#contact">Contato</a> */}
+            <a href="#footer">Contato</a>
             </nav>
         </header>
     );
